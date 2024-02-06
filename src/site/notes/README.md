@@ -7,10 +7,6 @@
 
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
-## Courses
-
-### Level 03a
-
 ## Features
 - [x] Collaborative note-taking
 - [x] Version history
