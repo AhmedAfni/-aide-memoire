@@ -9,7 +9,7 @@ Here, we record topics related to the courses we follow, these discussions are m
 ## Courses
 
 ### Level 03
-- [[README\|README]]
+
 ## Features
 - [x] Collaborative note-taking
 - [x] Version history
