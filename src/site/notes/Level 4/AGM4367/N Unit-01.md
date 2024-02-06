@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/level-4/agm-4367/n-unit-01/","tags":["agm4367"]}
+{"dg-publish":true,"permalink":"/level-4/agm-4367/n-unit-01/"}
 ---
 
 # Economics
