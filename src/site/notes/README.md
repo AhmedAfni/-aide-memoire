@@ -9,14 +9,16 @@ Here, we record topics related to the courses we follow, these discussions are m
 ## Courses
 
 ### Level 03
-- [[EEI3262\|EEI3262]] 
+<!-- [[EEI3262\|EEI3262]] 
 - [[EEI3269\|EEI3269]]
 - [[EEI3373\|EEI3373]]
 - [[ISI3376\|ISI3376]]
 - [[LLJ3265\|LLJ3265]]
 - [[MHZ3459\|MHZ3459]] | WIP
+-->
 ### Level 04
 - [[Level 4/AGM4367/AGM4367\|AGM4367]]
+<!--
 - [[EEI4346\|EEI4346]]
 - [[EEI4361\|EEI4361]]
 - [[EEI4362\|EEI4362]]
@@ -38,6 +40,7 @@ Here, we record topics related to the courses we follow, these discussions are m
 - [[EEI6171\|EEI6171]] | WIP
 - [[EEI6567\|EEI6567]] | WIP
 - [[EEM6202\|EEM6202]] | WIP
+-->
 ## Features
 - [x] Collaborative note-taking
 - [x] Version history
