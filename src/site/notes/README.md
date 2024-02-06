@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/README/","tags":["gardenEntry"]}
 ---
 
 <img src="https://raw.githubusercontent.com/NushaMBZ/aide-memoire/main/assets/attachments/anime%20study.gif" alt="roku ">
