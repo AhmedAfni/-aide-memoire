@@ -1,9 +1,4 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# aide-memoire
+<img src="https://raw.githubusercontent.com/NushaMBZ/aide-memoire/main/assets/attachments/anime%20study.gif" alt="roku ">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
-
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
