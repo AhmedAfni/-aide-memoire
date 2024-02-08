@@ -10,22 +10,18 @@ Here, we record topics related to the courses we follow, these discussions are m
 ## Courses
 
 ### Level 03
-- [[EEI3262\|EEI3262]] 
-- [[EEI3269\|EEI3269]]
-- [[EEI3373\|EEI3373]]
-- [[ISI3376\|ISI3376]]
-- [[LLJ3265\|LLJ3265]]
+- [[Level 3/EEX3373/EEX3373\|EEX3373]]
+- [[Level 3/LLJ3265/LLJ3265\|LLJ3265]]
 - [[MHZ3459\|MHZ3459]] | WIP
 ### Level 04
 - [[Level 4/AGM4367/AGM4367\|AGM4367]]
-- [[EEI4346\|EEI4346]]
-- [[EEI4361\|EEI4361]]
-- [[EEI4362\|EEI4362]]
-- [[EEI4366\|EEI4366]]
-- [[EEX4373\|EEX4373]]
+- [[Level 4/EEI4361/EEI4361\|EEI4361]]
+- [[Level 4/EEI4362/EEI4362\|EEI4362]]
+- [[Level 4/EEI4366/EEI4366\|EEI4366]]
+- [[Level 4/EEX4373/EEX4373\|EEX4373]]
 - [[EEI4465\|EEI4465]] | WIP
 ### Level 05
-- [[EEI5467\|EEI5467]]
+- [[Level 5/EEI5467/EEI5467\|EEI5467]]
 - [[EEI5563\|EEI5563]] | WIP
 - [[CVM5402\|CVM5402]] | WIP
 - [[MHJ5372\|MHJ5372]] | WIP
