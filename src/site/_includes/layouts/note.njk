@@ -12,6 +12,16 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.head %}
       {% include imp %}
     {% endfor %}
+        <style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+  </style>
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
@@ -92,9 +102,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
-    <footer>
-      <p>Author: Afni Ahmed</p>
-      <p><a href="mailto:hege@example.com">hege@example.com</a></p>
-    </footer>
+   <div class="footer">
+      <p align='center'>Author: Afni Ahmed</p>
+      <p align='center'><a href="mailto:hege@example.com">hege@example.com</a></p>
+    </div>
   </body>
 </html>
