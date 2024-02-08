@@ -51,4 +51,4 @@ Here, we record topics related to the courses we follow, these discussions are m
 ## Todos
  - [ ] Advanced collaboration tools
  - [ ] Summarized Chapters
- - [ ] AI assistant
+ - [ ] AI assisted learning
